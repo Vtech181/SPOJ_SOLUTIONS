@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 /*
+LEVEL:ROOKIE
 Problem Description:
 This question is about 3-D Dyanmic Programming.It is the most basic question for newbies to start and learn.
 */
