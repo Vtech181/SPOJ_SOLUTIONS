@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+/*
+This question is about 3-D Dyanmic Programming.
+*/
 long long arr[101][101][2];
 int t,x,y,casex;
 void init()
