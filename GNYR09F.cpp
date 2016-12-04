@@ -48,7 +48,7 @@ long long solve(int n,int k,int b)
     {
         if(b==0)
         {
-            arr[n][k][b]=solve(n-1,k,0)+solve(n-1,k,1);
+            arr[n][k][b]=solve(n-1,k,0)+solve(n-1,k,1);//Recurrence relation for this problem
             return arr[n][k][b];
         }
         else
