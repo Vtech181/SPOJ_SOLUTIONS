@@ -1,4 +1,7 @@
 #include <iostream>
+/*
+A beginners problem based on binary search
+*/
 using namespace std;
 int count;
 void swap(int *a,int *b)
